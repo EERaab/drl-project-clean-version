@@ -1,0 +1,4 @@
+,Means,Std. Err
+Base,508.98,18.43566840089491
++1 dense hidden layer,480.2,37.43478683398802
++2 dense hidden layer,406.4,39.870637756399645

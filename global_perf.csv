@@ -1,0 +1,4 @@
+,Means,Std. Err
+Base,446.56,36.27452200841211
+Base with longer training,410.02,38.462422583872794
+Base with transferred local pfd,476.32,26.779987044852145
